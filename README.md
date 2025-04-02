@@ -3,7 +3,7 @@ Fex-Android is script install [FEX-EMU](https://github.com/FEX-Emu/FEX) for Andr
 ## Installation
 Install [Termux](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk) and [Termux-X11 DRI3](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk)
 ```
-curl https://raw.githubusercontent.com/AllPlatform/Fex-Android/main/fex-android.sh -o fex.sh; bash fex.sh
+curl https://raw.githubusercontent.com/SedTriHEX/Fex-Android/main/fex-android.sh -o fex.sh; bash fex.sh
 ```
 After installation completed, type:
 ```
